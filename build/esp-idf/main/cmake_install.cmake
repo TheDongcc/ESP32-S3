@@ -1,4 +1,4 @@
-# Install script for directory: P:/Hardware/ESP/ESP32-S3-Template/main
+# Install script for directory: D:/ESPCCCC/main
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

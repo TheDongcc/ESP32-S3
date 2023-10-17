@@ -1400,7 +1400,7 @@ rule C_STATIC_LIBRARY_LINKER____idf_main_
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = C:\Espressif\tools\cmake\3.24.0\bin\cmake.exe --regenerate-during-build -SP:\Hardware\ESP\ESP32-S3-Template -BP:\Hardware\ESP\ESP32-S3-Template\build
+  command = C:\Espressif\tools\cmake\3.24.0\bin\cmake.exe --regenerate-during-build -SD:\ESPCCCC -BD:\ESPCCCC\build
   description = Re-running CMake...
   generator = 1
 

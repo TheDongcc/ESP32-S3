@@ -2,34 +2,34 @@
 	"sources" : 
 	[
 		{
-			"file" : "P:/Hardware/ESP/ESP32-S3-Template/build/CMakeFiles/bootloader"
+			"file" : "D:/ESPCCCC/build/CMakeFiles/bootloader"
 		},
 		{
-			"file" : "P:/Hardware/ESP/ESP32-S3-Template/build/CMakeFiles/bootloader.rule"
+			"file" : "D:/ESPCCCC/build/CMakeFiles/bootloader.rule"
 		},
 		{
-			"file" : "P:/Hardware/ESP/ESP32-S3-Template/build/CMakeFiles/bootloader-complete.rule"
+			"file" : "D:/ESPCCCC/build/CMakeFiles/bootloader-complete.rule"
 		},
 		{
-			"file" : "P:/Hardware/ESP/ESP32-S3-Template/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+			"file" : "D:/ESPCCCC/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
 		},
 		{
-			"file" : "P:/Hardware/ESP/ESP32-S3-Template/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+			"file" : "D:/ESPCCCC/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
 		},
 		{
-			"file" : "P:/Hardware/ESP/ESP32-S3-Template/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+			"file" : "D:/ESPCCCC/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
 		},
 		{
-			"file" : "P:/Hardware/ESP/ESP32-S3-Template/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+			"file" : "D:/ESPCCCC/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
 		},
 		{
-			"file" : "P:/Hardware/ESP/ESP32-S3-Template/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+			"file" : "D:/ESPCCCC/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
 		},
 		{
-			"file" : "P:/Hardware/ESP/ESP32-S3-Template/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+			"file" : "D:/ESPCCCC/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
 		},
 		{
-			"file" : "P:/Hardware/ESP/ESP32-S3-Template/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+			"file" : "D:/ESPCCCC/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
 		}
 	],
 	"target" : 
